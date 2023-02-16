@@ -4,7 +4,7 @@ import static spark.Spark.get;
 
 public class HelloWorld implements SparkApplication {
 	public static void main(String[] args) {
-		new Kalpana HelloWorld().init();
+		new HelloWorld().init();
 	}
 
 	@Override
